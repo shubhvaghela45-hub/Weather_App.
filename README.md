@@ -4,7 +4,7 @@ Description
 A simple and interactive weather application that allows users to search for weather information by city name. It fetches real-time data from the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather icons. The app includes a dark/light theme toggle for better user experience.
 
 ## 📸 Demo / Live Link  
-🔗 **Live Preview:**   
+🔗 **Live Preview:** https://shubhvaghela45-hub.github.io/Weather_App./
 📂 **Repository Link:** https://github.com/shubhvaghela45-hub/Weather_App..git
 
 ---
