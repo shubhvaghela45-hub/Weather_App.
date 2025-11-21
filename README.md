@@ -5,7 +5,7 @@ A simple and interactive weather application that allows users to search for wea
 
 ## 📸 Demo / Live Link  
 🔗 **Live Preview:**   
-📂 **Repository Link:**   
+📂 **Repository Link:** https://github.com/shubhvaghela45-hub/Calculator..git
 
 ---
 
@@ -36,7 +36,7 @@ A simple and interactive weather application that allows users to search for wea
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/repo.git
+git clone https://github.com/shubhvaghela45-hub/Calculator..git
 ```
 
 ---
